@@ -1,2 +1,2 @@
 tasks:
-  - init: yarn install && yarn build
+  - init: yarn install --ignore-scripts && yarn build
